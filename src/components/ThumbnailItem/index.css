@@ -1,0 +1,15 @@
+.active-tab-btn {
+  opacity: 0.5;
+}
+
+.b1{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
+
+.img1{
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+}

@@ -1,0 +1,11 @@
+.img1 {
+  height: 80vh;
+  width: 90vh;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  background-size: cover;
+}
+.list-con {
+  display: flex;
+}
